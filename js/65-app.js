@@ -5,5 +5,6 @@ const aprendiendo = function() {
 
 const aprendiendo2 = () => 'Aprnediendo javascript...';
 
+
+console.log(aprendiendo2());
 aprendiendo();
-aprendiendo2();
