@@ -1,4 +1,4 @@
-/** CAPITULO 66 **/
+/** CAPITULO 67 **/
 const carrito = [
     {nombre: 'Monitor 25 Pulg.', precio: 500},
     {nombre: 'Televisión', precio: 300},
