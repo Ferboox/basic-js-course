@@ -1,3 +1,4 @@
+/** CAPITULO 60 **/
 function sumar(a, b) {
     console.log(a + b);
 }
